@@ -1,7 +1,6 @@
 # Invitation
 Downloading the file from the <a href="https://storage.googleapis.com/gctf-2019-attachments/00c2a73eec8abb4afb9c3ef3a161b64b451446910535bfc0cc81c2b04aa132ed">link</a>
-![The Roadmap](/  Screenshot from 2020-03-01 01-00-33.png)
-
+![The Roadmap](https://github.com/CodingJackson/GoogleCTF-Beginner/blob/master/Invitation/Screenshot%20from%202020-03-01%2001-00-33.png)
 ## Identifying the download
 
 ```file 00c2a73eec8abb4afb9c3ef3a161b64b451446910535bfc0cc81c2b04aa132ed```
